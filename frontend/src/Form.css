@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+
+.contanier {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.detail {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.detail select {
+    margin-left: 20%;
+    border-radius: 10px;
+}
+
+.detail input {
+    margin: 5px 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    align-items: center;
+    justify-content: center;
+    margin-left: 33%;
+    border-radius: 10px;
+
+}
